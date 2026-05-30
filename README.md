@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=AWS+DevOps+Engineer+%F0%9F%9A%80;Self-Hosted+Server+Builder+%F0%9F%96%A5%EF%B8%8F;Infrastructure+Automation+Nerd+%E2%9A%99%EF%B8%8F;CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Linux)](https://git.io/typing-svg)
 
-📍 Tenkasi, India &nbsp;·&nbsp; 📧 elanchithira124@gmail.com &nbsp;·&nbsp; 📞 +91 9514518534
+📍 Chennai, India &nbsp;·&nbsp; 📧 elanchithira124@gmail.com &nbsp;·&nbsp; 📞 +91 9514518534
 
 </div>
 
@@ -115,8 +115,8 @@ $ cat about.txt
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elanchithira124@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elanchithiran-b-488ab5278)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elan007-akf)
 
 </div>
 
@@ -126,6 +126,6 @@ $ cat about.txt
 
 *"Automate the boring stuff. Ship the real stuff."* ⚡
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1D9E75&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Elan007-akf&color=1D9E75&style=flat-square)
 
 </div>
