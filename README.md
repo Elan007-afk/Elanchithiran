@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=AWS+DevOps+Engineer+%F0%9F%9A%80;Self-Hosted+Server+Builder+%F0%9F%96%A5%EF%B8%8F;Infrastructure+Automation+Nerd+%E2%9A%99%EF%B8%8F;CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Linux)](https://git.io/typing-svg)
 
-📍 Chennai, India &nbsp;·&nbsp; 📧 elanchithira124@gmail.com &nbsp;·&nbsp; 📞 +91 9514518534
+📍 Tenkasi, India &nbsp;·&nbsp; 📧 elanchithira124@gmail.com &nbsp;·&nbsp; 📞 +91 9514518534
 
 </div>
 
